@@ -1,2 +1,1 @@
-Hello
-Welcome here
+This is a new file management method
